@@ -1,0 +1,13 @@
+Yet another Currency mod
+coins, wallets and villager trades only money
+jobs?
+OR
+
+https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/requests-ideas-for-mods/3138926-create-new-ingots-that-only-you-can-get-in-the-end
+Ultranite
+less strong than netherite, same as diamond, but each thing has a natural ability
+helmet has incirsed swimming speed
+chestplate has thorns 1 above the level
+legs decreased kockback
+boots have heather falling above the max
+full armor gives incriesed swiming x3, thorns x4 ( or enough for an enderman, wich comes first), no kockback, no fall damage
